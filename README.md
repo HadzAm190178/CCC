@@ -1,1 +1,1 @@
-# CCC
+# Coding Contest
